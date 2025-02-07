@@ -1,19 +1,34 @@
 # pari_testapp
 
-## How to run app
+## Tutorial run app
+
+- Clone or download the project:
+
+```
+git clone https://github.com/Leviansky/pari_assesment.git
+cd pari_assesment
+```
 
 - Install dependencies:
 
-`flutter pub get`
+```
+flutter pub get
+```
 
-- Jalankan aplikasi di emulator atau perangkat fisik:
+- Run the application on an emulator or physical device:
 
-`flutter run`
+```
+flutter run
+```
 
-- Build APK untuk Android:
+- Build APK for Android:
 
-`flutter build apk`
+```
+flutter build apk
+```
 
-- Build untuk iOS (hanya macOS):
+- Build for iOS (macOS only):
 
-`flutter build ios`
+```
+flutter build ios
+```
